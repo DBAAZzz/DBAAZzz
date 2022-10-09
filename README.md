@@ -9,7 +9,3 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=DBAAZzz&count_private=true&show_icons=true&theme=radical" alt="DBAAZzz's GitHub stats" />
   </a>
 </div>
-
-
-![GitHub Snake Light](https://raw.githubusercontent.com/DBAAZzz/DBAAZzz/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-![GitHub Snake Dark](https://raw.githubusercontent.com/DBAAZzz/DBAAZzz/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
