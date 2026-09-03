@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="170" viewBox="0 0 600 170" role="img">
+  <title>DBAA — zsh</title>
+  <style>
+    .mono { font-family: ui-monospace, Menlo, Monaco, 'Cascadia Code', Consolas, 'Courier New', monospace; }
+  </style>
+  <defs>
+    <filter id="shadow" x="-20%" y="-30%" width="140%" height="180%">
+      <feDropShadow dx="0" dy="6" stdDeviation="12" flood-color="#000000" flood-opacity="0.35"/>
+    </filter>
+  </defs>
+
+  <g filter="url(#shadow)">
+    <rect x="1" y="1" width="598" height="168" rx="10" fill="#121212" stroke="#2d2d2d" stroke-width="1"/>
+  </g>
+
+  <circle cx="28" cy="27" r="5.5" fill="#ff5f56"/>
+  <circle cx="48" cy="27" r="5.5" fill="#ffbd2e"/>
+  <circle cx="68" cy="27" r="5.5" fill="#27c93f"/>
+  <text class="mono" x="300" y="31" text-anchor="middle" font-size="11" fill="#71717a">dbaa — -zsh — 80×24</text>
+
+  <text class="mono" x="18" y="66" font-size="13"><tspan fill="#10b981">➜</tspan><tspan dx="7" fill="#38bdf8">~</tspan><tspan dx="7" fill="#f43f5e">git:(main)</tspan><tspan dx="7" fill="#e4e4e7">whoami</tspan></text>
+  <text class="mono" x="18" y="86" font-size="13" fill="#a1a1aa">&gt; DBAA (Frontend Dev · WeChat MiniProgram · Vue)</text>
+
+  <text class="mono" x="18" y="114" font-size="13"><tspan fill="#10b981">➜</tspan><tspan dx="7" fill="#38bdf8">~</tspan><tspan dx="7" fill="#f43f5e">git:(main)</tspan><tspan dx="7" fill="#e4e4e7">cat focus.txt</tspan></text>
+  <text class="mono" x="18" y="134" font-size="13" fill="#a1a1aa">&gt; Exploring AI Agent &amp; Workflow, uni-app, Vite<tspan fill="#e4e4e7">█<animate attributeName="fill-opacity" values="1;1;0;0" keyTimes="0;0.5;0.5;1" dur="1.1s" repeatCount="indefinite"/></tspan></text>
+</svg>
